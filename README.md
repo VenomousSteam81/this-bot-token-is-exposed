@@ -1,4 +1,5 @@
 # this-bot-token-is-exposed
+# YES THIS WAS ONE OF MY BOT TOKENS
 exposed bot token be like brrrr
 
 
